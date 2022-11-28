@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "ir-coming-soon",
+    "staging": "ir-coming-soon"
+  },
+  "targets": {}
+}
